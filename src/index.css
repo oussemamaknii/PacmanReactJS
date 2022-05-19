@@ -1,0 +1,39 @@
+h1 {
+  display: flex;
+  justify-content: center;
+}
+#grille {
+  display: grid;
+  margin-left: 150px;
+  margin-top: 5%;
+}
+.mur {
+  background-image: url(../public/images/murbrique.jpg);
+}
+.sol {
+  background-color: black;
+}
+.bonbon {
+  background-image: url(../public/images/bonbon.gif);
+}
+.pacman {
+  background-image: url(../public/images/pacman4.gif);
+}
+.fantome {
+  background-image: url(../public/images/fantome_bleu1.gif);
+}
+.fantome-bleu {
+  background-image: url(../public/images/fantome_bleu1.gif);
+}
+.fantome-rouge {
+  background-image: url(../public/images/fantome_rouge1.gif);
+}
+.fantome-orange {
+  background-image: url(../public/images/fantome_orange1.gif);
+}
+.fantome-vert {
+  background-image: url(../public/images/fantome_vert1.gif);
+}
+p {
+  font-size: 1.6em;
+}
